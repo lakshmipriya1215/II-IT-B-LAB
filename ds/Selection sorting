@@ -1,0 +1,43 @@
+AIM OF THE EXPERIMENT:
+Arranging elements in the unsorted array in to the sorted array by using selection sort.
+
+DESCRIPTION:
+Selection sort is an simple sorting algorithm. This sorting algorithm is an in-place comparision based algorithm in which the list or array divided in to two parts, the sorted part at the
+left end and the unsorted part at the right end. Intially the sorted part is empty and the unsorted part is the entire list or array.
+
+STEP BY STEP PROCEDURE:
+
+1. First we need declare the array size.
+
+2. Then we need to check the array is sorted or not, if it is sorted then print the array.
+
+3. If is not sorted then the curser moves to the insertion sort function.
+
+4. Select the first element of the array.
+
+5. Compare the selected element with all the elements in the array.
+
+6. In every comparision if the element is found smaller than the selected element, then both are swapped
+
+7. Repeat the same procedure with the element in the next position until total array is sorted.
+
+OUTPUT OBTAINED:
+
+OUTPUT1:
+
+1. First we need to scan the array size.
+
+2. Scan the elements in to the array. 
+
+3. Take array as {67 , 43 , 12, 98 , 75 , 23}, it goes to the selection sort function and prints the sorted elements to the output.
+
+OUTPUT2:
+
+1. First we need to scan the array size.
+
+2. Scan the elements in to the array.
+
+3. Take array as {56 , 34 , -67 , 3 , 0 }, it goes to the selection sort function and prints the sorted array to the output.
+
+![output1](2020-09-20.png)
+![output2](2020-09-20(1).png)

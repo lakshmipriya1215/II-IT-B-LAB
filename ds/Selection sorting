@@ -39,5 +39,5 @@ OUTPUT2:
 
 3. Take array as {56 , 34 , -67 , 3 , 0 }, it goes to the selection sort function and prints the sorted array to the output.
 
-![output1](2020-09-20.png)
-![output2](2020-09-20(1).png)
+![output 1](2020-09-20.png)
+![output 2](2020-09-20(1).png)
